@@ -5,7 +5,7 @@
 ---
 
 <h2>Demo</h2>
-<img src="/.github/portfolio.gif">
+<!--<img src="/.github/portfolio.gif">-->
 
 ---
 
