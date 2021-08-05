@@ -195,7 +195,7 @@ const projects: Projects = {
       "This description is typed as **markdown** in source code, the Project component takes in props for links, icons, title, images, etc; nothing is hard coded.",
     ],
     links: {
-      live: "https://bhavya.dev",
+      live: "https://adoring-kirch-9711f3.netlify.app/",
       github: "https://github.com/githubajaydhage/portfolio",
     },
     stack: [
