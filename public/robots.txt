@@ -1,4 +1,4 @@
-Sitemap: https://bhavya.dev/sitemap.xml
+Sitemap: https://nifty-johnson-27cfaa.netlify.app.xml
 
 User-agent: *
 Allow: /*
